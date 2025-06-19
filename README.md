@@ -125,10 +125,10 @@ Output: Each experiment run will be logged in the WandB directory. A separate ru
    - `Predictions_with_help.csv` — spots suggested for the next iteration (labelled “help”)  
    You can load these CSVs into Loupe Browser (see example: `doc/example_predictions.png`).  
 
-_For the next active learning iterations, refer to section 4, “Run Active Learning and Update Annotations.”_
+For the next active learning iterations, refer to section 4, “Run Active Learning and Update Annotations."
+
+
 ---
-
-
 ## Running ActiveVisium on New Samples
 
 ### Preparing Data
