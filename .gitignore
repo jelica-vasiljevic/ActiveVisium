@@ -1,0 +1,28 @@
+# Ignore the outputs folder
+outputs/
+
+# Ignore wandb files
+wandb
+wandb/
+wandb/*
+wandb/**/*
+
+# Ignore job outputs files:
+*.out
+*.err
+
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.png
+*.csv
+*.h5
+*.db
+
+# IDE and Editor settings
+.idea/
+.vscode/
+
