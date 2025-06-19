@@ -54,8 +54,8 @@ All data used in the paper are available for download from [Zenodo](https://zeno
 Ensure you have Anaconda installed, then create and activate an environment for ActiveVisium:
 
 ```
-conda create --name activevisium_env python=3.8
-conda activate activevisium_env
+conda env create -f environment.yml
+conda activate active_visium
 ```
 
 ### Configure Weights & Biases (WandB) and Hugging Face
